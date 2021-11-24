@@ -11,7 +11,7 @@ Unsere **Zusammenarbeit im Team** organisieren wir über:
 - :dizzy: [**Meetup**](https://www.meetup.com/de-DE/lets-rock-the-prototype/)
 - :dizzy: **Confluence**
 - :dizzy: **Jira**
-- :dizzy: **Discord**
+- :dizzy: [**Discord**](https://discord.gg/V4RQbcPU)
 
 Anstatt im Alleingang unendliche Tutorials zu durchlaufen, verfolgen wir eine Idee und verwirklichen gemeinsam als erstes Projekt eine Foto-Plattform.
 Dabei bringt sich jede*r nach Herzenslust ein! Alle  erforderlichen Fähigkeiten eignen wir uns an, tauschen unser Wissen gegenseitig aus und ergänzen uns anhand unterschiedlichster Fähigkeiten optimal im Team. 
