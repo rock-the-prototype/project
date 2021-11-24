@@ -14,7 +14,7 @@ Unsere **Zusammenarbeit im Team** organisieren wir über:
 - :dizzy: **Discord**
 
 Anstatt im Alleingang unendliche Tutorials zu durchlaufen, verfolgen wir eine Idee und verwirklichen gemeinsam als erstes Projekt eine Foto-Plattform.
-Dabei bringt sich nach Herzenslust ein; alle dazu erforderlichen Fähigkeiten eignen wir uns an, tauschen unser Wissen gegenseitig aus und ergänzen uns gegenseitig optimal im Team. 
+Dabei bringt sich jede*r nach Herzenslust ein! Alle  erforderlichen Fähigkeiten eignen wir uns an, tauschen unser Wissen gegenseitig aus und ergänzen uns anhand unterschiedlichster Fähigkeiten optimal im Team. 
 
 Gemeinsam - über agile Sprints - verwirklichen wir eine **Progressive Web App (PWA)**. Von der konzeptionellen Idee, über Vue.js als Frontend-Technologie zum Nuxt Projekt bis zu den angebundenen Backend-Komponenten organisieren wir unsere Zusammenarbeit in GitHub, Confluence, Jira und Discord. Dabei rocken wir unseren Prototypen als Minimal Viable Product (MVP) direkt auf die Domain https://rock-the-prototype.de/ und haben es hierzu inzwischen containerbasiert bis in die AWS Cloud geschafft.
 
